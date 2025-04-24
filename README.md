@@ -7,8 +7,9 @@ EQUIPMENTS REQUIRED:
 ●	Hardware: PCs
 
 ```
-Register Number: 212222040121
-Name: Praveen V
+Register Number: 212222040128
+Name: RAGHUL S
+
 ```
 
 ## DESIGN STEPS:
